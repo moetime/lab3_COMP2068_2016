@@ -3,7 +3,13 @@
   "version": "0.0.0",
   "description": "lab_3",
   "main": "app.js",
-  "author": {
-    "name": "Morrice"
+  "author": "Morrice",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "connect": "^3.5.0"
   }
 }
