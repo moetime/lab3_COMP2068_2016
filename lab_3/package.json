@@ -1,0 +1,9 @@
+{
+  "name": "lab_3",
+  "version": "0.0.0",
+  "description": "lab_3",
+  "main": "app.js",
+  "author": {
+    "name": "Morrice"
+  }
+}
